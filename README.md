@@ -1,2 +1,1 @@
-# mathable-computer-vision
-Automatically computing Mathable scores from pictures using Computer Vision techniques
+# You can find the project report [here](https://github.com/ingeaua/mathable-computer-vision/blob/main/project-report.pdf).
